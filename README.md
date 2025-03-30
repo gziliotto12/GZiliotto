@@ -1,5 +1,3 @@
-<a name="top"></a>
-
 # Giuliana Ziliotto (She/Her) <img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/headshot2.JPG" alt="drawing" width="200" align = "right"/>
 ### 🎓 Major: Business Information & Analytics &nbsp;|&nbsp; 🌍 Minor: Italian</span></strong>
 [<img src= "https://img.shields.io/badge/📧-EMAIL-b2ebf2.svg?style=for-the-badge" height="35"/>](mailto:gziliot@gmail.com)
@@ -20,9 +18,6 @@ During my free time, I enjoy a multitude of hobbies. I have condensenced my hobb
 - Cooking & Baking: Growing up in an immigrant household, food has been a key component of my life since I could remember. Naturally, I grew up learning many recipes from my family and as I have grown older, I find excitement in exploring different cultures through their food.
 - Arts & Crafts: Anyone from my childhood could explain the creativity I have possessed my entire life. Whether it was hyper-realistic drawings, abstract art, pottery, jewelry-making, sewing, photography...the list goes on; I think part of why BIA appealed to me in the first place was the fact that displaying data and telling a story through it is really an art form of sorts. 
 - Nature: Whether it's walks around Washington Park or the beach in California, hikes in the mountains, or hitting the slopes when I can, I find peace and tranquility in surrounding myself with nature.
-
-<hr>
-<a name="links"></a>
 
 ## Portfolio Overview
 [<img src= "https://img.shields.io/badge/TECHNICAL%20SKILLS-dc7633.svg" height="40"/>](TechnicalSkills)
