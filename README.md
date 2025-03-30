@@ -5,3 +5,4 @@
 #### :link: [Linkedin](https://www.linkedin.com/in/giulianaziliotto/)
 #### :bust_in_silhouette: [Resume](Assets/Documents/resume_4.29.25.pdf)
 
+[<img src= " " height="35"/>](#Global Experience)
