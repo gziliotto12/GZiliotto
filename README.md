@@ -1,6 +1,8 @@
 # Giuliana Ziliotto (She/Her)
-#### [Email](gziliot@gmail.com)
-#### [Linkedin](https://www.linkedin.com/in/giulianaziliotto/)
-#### [Resume]
 ### Major: Business Information & Analytics
 ### Minor: Italian
+#### :e-mail: [Email](gziliot@gmail.com)      
+#### :link: [Linkedin](https://www.linkedin.com/in/giulianaziliotto/)
+#### :bust_in_silhouette: [Resume]
+#### [Contribution guidelines for this project](/CONTRIBUTING.md)
+
