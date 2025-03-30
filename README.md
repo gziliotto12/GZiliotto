@@ -3,7 +3,7 @@
 
 # Giuliana Ziliotto (She/Her)
 ### 🎓 Major: Business Information & Analytics &nbsp;|&nbsp; 🌍 Minor: Italian</span></strong>
-[<img src= "https://img.shields.io/badge/📧%20EMAIL-b2ebf2.svg" height="35"/>](gziliot@gmail.com)
+[<img src= "https://img.shields.io/badge/📧%20EMAIL-b2ebf2.svg" height="35"/>](https://gziliot@gmail.com)
 [<img src= "https://img.shields.io/badge/🔗%20LINKEDIN-b2ebf2.svg" height="35"/>](https://www.linkedin.com/in/giulianaziliotto/)
 [<img src= "https://img.shields.io/badge/👤%20RESUME-b2ebf2.svg" height="35"/>](Assets/Documents/resume_4.29.25.pdf)
 </p>
