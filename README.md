@@ -4,5 +4,5 @@
 #### :e-mail: [Email](gziliot@gmail.com)      
 #### :link: [Linkedin](https://www.linkedin.com/in/giulianaziliotto/)
 #### :bust_in_silhouette: [Resume]
-#### [Contribution guidelines for this project](/CONTRIBUTING.md)
+#### [Contribution guidelines for this project](GlobalExperience/README.md)
 
