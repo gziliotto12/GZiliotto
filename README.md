@@ -3,6 +3,5 @@
 ### Minor: Italian
 #### :e-mail: [Email](gziliot@gmail.com)      
 #### :link: [Linkedin](https://www.linkedin.com/in/giulianaziliotto/)
-#### :bust_in_silhouette: [Resume](Assets/Documents/
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+#### :bust_in_silhouette: [Resume](Assets/Documents/resume_4.29.25.pdf)
 
