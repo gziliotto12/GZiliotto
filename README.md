@@ -13,7 +13,6 @@ It goes without saying that I have had a deep curiosity for learning from a youn
 
 During my free time, I enjoy a multitude of hobbies. I have condensenced my hobbies into more managable catagories:
 
-[<img src= "https://img.shields.io/badge/🎤-b2ebf2.svg" height="45" align= "right"/>](https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/singing.mov)
 - Singing: I sang in choirs K-12 and recieved lessons on classical pieces and Opera. Though I am not part of choir at DU, it is still a huge part of my life and something that brings me immense joy.
 - Cooking & Baking: Growing up in an immigrant household, food has been a key component of my life since I could remember. Naturally, I grew up learning many recipes from my family and as I have grown older, I find excitement in exploring different cultures through their food.
 - Arts & Crafts: Anyone from my childhood could explain the creativity I have possessed my entire life. Whether it was hyper-realistic drawings, abstract art, pottery, jewelry-making, sewing, photography...the list goes on; I think part of why BIA appealed to me in the first place was the fact that displaying data and telling a story through it is really an art form of sorts. 
