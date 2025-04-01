@@ -1,7 +1,9 @@
 # Global Experience
 Growing up in a culturally diverse family, my deep curiousity and desire to learn about and immerse myself in other cultures has been a integral component of my identity. I was particularly drawn to the University of Denver by the strong student encouragement to complete a cultural exchange and the high prevelence of out-of-state students. Committing to DU intiated my collegiate cultural adventure; however, below details my actual journey while studying as a student.
+
 ### Language Studies
 I decided to embark on a minor in Italian- a important language to me- as much of my extended family soley speaks it. Through my many courses in Italian, not only did the University of Denver help develop my language proficiency, but it also broaded my understanding of the socioeconomic and sociocutural climate of modern Italy. 
+
 ### Study Abroad
 As I had dreamed of from a young age, I embarked on my cultural experience late summer 2023. For roughly the first two weeks, I spent time in northern Italy (just northwest of Venice) with my Aunt, Uncle, and cousin. This experience was perhaps one of the most valuable experiences of my time abroad, as I experienced the daily routine in a non-touristy area of Italy.
 
@@ -16,4 +18,9 @@ In my Italian Food & Culture class, we learned about the history of food movemen
 Lastly, my Wine Business Marketing class taught me all about the global wine trade and the marketing that goes into selling to the United States market, the largest export destination for Italian wine. I learned the art of experiencing wine, the different regions and classifications of wine in Italy, the process of its production, and even got to visit a winery during the course. It all culminated into applying the learned concepts into our own fictional wine brand in a group project where I met my incredible friends from Mexico.
 
 ### Independent Cultural Learning
-Through study abroad, I became close friends with several students from Mexico whom I am still close with. I have had the opportunity to spend a good amount of time in Mexico over the past year, and beyond the incredible culture I have experiences, I have also learned about global business and trade between the United States and Mexico, as well as Mexico and other countries.
+Through study abroad, I became close friends with several students from Mexico whom I am still in contact with. I have had the opportunity to spend a good amount of time in Mexico over the past year, and beyond the incredible cultural experiences, I have also gained a glimpse into business in Mexico and its global trade. 
+
+In a lot of ways, there are so many similarities of expectations and pace of business in Mexico, but there are also differences that align with the cultural differences between the United States in Mexico. For one thing, Mexico has different labor laws than in the United States, which shapes the expectations for employees.
+
+### Reflection
+My experiences abroad have challenged the way I go about interacting with others and factors I take into consideration when I'm examining business problems. In my BIA classes, it has lended me extra perspective and the forethought to consider the kinds of cultural differences that could be at play in different global business scenarios and how it may influence consumer interest or feasibility of potential business decisions. Additionally, it has taught me the importance of listening to the experiences of others and having understanding because in the workplace, I will likely encounter peers and clients that have grown up in different cultures with differing expectations. What makes sense to me, might not to someone else, but they may also have another perspective that could be beneficial to decisions in the workplace.
