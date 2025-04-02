@@ -22,6 +22,7 @@ During my free time, I enjoy a multitude of hobbies. I have condensenced my hobb
 [<img src= "https://img.shields.io/badge/TECHNICAL%20SKILLS-dc7633.svg" height="40"/>](TechnicalSkills)
 [<img src= "https://img.shields.io/badge/GLOBAL%20EXPERIENCE-afb42b.svg" height="40"/>](GlobalExperience)
 [<img src= "https://img.shields.io/badge/LEADERSHIP-2471a3.svg" height="40"/>](Leadership)
+[<img src= "https://img.shields.io/badge/ETHICS-a569bd.svg" height="40"/>](Ethics)
 
 <a name="links"></a>
 
