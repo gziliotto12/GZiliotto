@@ -24,3 +24,5 @@ In a lot of ways, there are so many similarities of expectations and pace of bus
 
 ### Reflection
 My experiences abroad have challenged the way I go about interacting with others and factors I take into consideration when I'm examining business problems. In my BIA classes, it has lended me extra perspective and the forethought to consider the kinds of cultural differences that could be at play in different global business scenarios and how it may influence consumer interest or feasibility of potential business decisions. Additionally, it has taught me the importance of listening to the experiences of others and having understanding because in the workplace, I will likely encounter peers and clients that have grown up in different cultures with differing expectations. What makes sense to me, might not to someone else, but they may also have another perspective that could be beneficial to decisions in the workplace.
+
+[<img src= "https://img.shields.io/badge/HOME-009688.svg" height="40"/>](https://github.com/gziliotto12/gziliotto12)
