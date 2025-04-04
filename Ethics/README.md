@@ -4,4 +4,4 @@ In my time at the University of Denver, the world saw the revolutionary creation
 
 Being transparent about AI usage has been important to me. When I use AI for coding, I believe it is essential that I understand the code it is giving to me or the reasons behind changes AI has chosen to make to my code. Additionally, I am a firm believer that quality research should not be done through AI chatboxes. My mom is a librarian at a college, and from a young age, she taught me both how to go about finding reputable sources, but also the importance of quality research. I have often used AI chatboxes to find possible databases or locations of articles and journals that may be useful in my research. However, in my projects, both individual and group, I have ensured that research is coming from reputable sources because it is crutial to ensuring analysis and decision-making is determined by accurate and relevant insight. 
 
-[<img src= "https://img.shields.io/badge/HOME-009688.svg" height="40"/>](gziliotto12)
+[<img src= "https://img.shields.io/badge/HOME-009688.svg" height="40"/>](https://github.com/gziliotto12/gziliotto12)
