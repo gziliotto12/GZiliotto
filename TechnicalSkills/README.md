@@ -19,12 +19,15 @@ health insurance project (from Data Mining and Visualization)
 ## Database Management Systems
 ### Foundations of Information Management
 cielovolo #1
+(erd, database, analysis)
 
 ### Enterprise Information Management
 cielovolo #2
+(erd, database, answering business questions w/ python, altering sql database through python w/ user interface of sorts)
 
 ### Data Warehousing and Business Intelligence
 cielovolo #3
+(erd, database, data warehouse code, data mart creation, dashboard analysis)
 
 ## Optimization Modeling
 ### Fantasy Football Team Optimization
