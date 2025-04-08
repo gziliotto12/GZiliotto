@@ -11,7 +11,8 @@ In the past several years, Daniels College of Business has helped to develop my 
 
 ## User Interface
 ### Utilizing Python
-My first experience with creating a user interface was in Automating Business Processes. In this course, I learned how to use if/else statements to create a "menu" and allow a user to choose an option and be brought to a different "page". Though very simplistic in structure and usage, it was a great opportunity to get an idea of what to think about when creating a user interface and the general method of creating one. For my final project, I created a webpage for a frictional Christmas tree lot, where workers could login and enter the tree type, size, any add ons a consumer wanted, and the address of the order if specified. This then created an output with a reciept for the consumer and the worker so that both are only recieving the information needed.
+My first experience with creating a user interface was in Automating Business Processes. In this course, I learned how to use if/else statements to create a "menu" and allow a user to choose an option and be brought to a different "page". <img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/homepage.png" alt="drawing" length= "1000"/>
+Though very simplistic in structure and usage, it was a great opportunity to get an idea of what to think about when creating a user interface and the general method of creating<img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/p_calc.png" alt="drawing" width= "600" align= "right"/> one. For my final project, I created a webpage for a frictional Christmas tree lot, where workers could login and enter the tree type(s), size(s), any add-ons a consumer wanted, and the address(es) of the order if specified. This then created an output with a reciept for the consumer and the worker so with all the order details and the delivery addresses necessary for each delivery. 
 
 
 ### Utilizing R
