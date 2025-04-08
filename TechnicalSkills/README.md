@@ -40,8 +40,8 @@ cielovolo #3
 (erd, database, data warehouse code, data mart creation, dashboard analysis)
 
 ## Optimization Modeling
-[<img src= "https://img.shields.io/badge/FANTASY FOOTBALL OPTIMIZATION-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/OptimizationFinal.html)
-Fantasy Football Team Optimization
+[<img src= "https://img.shields.io/badge/FANTASY FOOTBALL OPTIMIZATION-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/optimize_final_ziliotto%20(6).html)
+fantasy football optimization blah blah
 
 
 # Accounting Journey
