@@ -10,7 +10,7 @@ In the past several years, Daniels College of Business has helped to develop my 
 - [Microsoft Office Specialist: Excel Associate (Office 2019)](https://www.credly.com/badges/e32eb1c0-cf8e-4c16-aba5-0843ab71bb4d/linked_in_profile)
 
 ## User Interface
-[<img src= "https://img.shields.io/badge/PYTHON USER INTERFACE-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/finalfixed.html) [<img src= "https://img.shields.io/badge/R USER INTERFACE-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/HealthInsuranceDashboardZiliotto%20(1).html)
+[<img src= "https://img.shields.io/badge/Python User Interface-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/finalfixed.html) [<img src= "https://img.shields.io/badge/R User Interface-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/HealthInsuranceDashboardZiliotto%20(1).html)
 
 ### Utilizing Python
 <img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/homepage.png" alt="drawing" width= "800"/>
@@ -30,17 +30,18 @@ cielovolo #1
 (erd, database, analysis)
 
 ### Enterprise Information Management
-[<img src= "https://img.shields.io/badge/CIELOVOLO PT.2-efe4b1.svg" height="30"/>]()
+[<img src= "https://img.shields.io/badge/CieloVolo SQL Pt.2-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/CieloVolo%20SQL%20C.2.zip)
+[<img src= "https://img.shields.io/badge/Answering Business Questions in Python-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/ProjectP2%20(1).html) [<img src= "https://img.shields.io/badge/Python User Interface: Altering SQL Database-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/Database%20P3.html)
 cielovolo #2
 (erd, database, answering business questions w/ python, altering sql database through python w/ user interface of sorts)
 
 ### Data Warehousing and Business Intelligence
-[<img src= "https://img.shields.io/badge/CIELOVOLO PT.3-efe4b1.svg" height="30"/>]()
+[<img src= "https://img.shields.io/badge/CieloVolo Final Project Pt.3 -efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/CieloVolo%20Zip%20(2).zip) [<img src= "https://img.shields.io/badge/CieloVolo Presentation -efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/Presentation%20CieloVolo%202.pptx)
 cielovolo #3
 (erd, database, data warehouse code, data mart creation, dashboard analysis)
 
 ## Optimization Modeling
-[<img src= "https://img.shields.io/badge/FANTASY FOOTBALL OPTIMIZATION-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/optimize_final_ziliotto%20(6).html)
+[<img src= "https://img.shields.io/badge/Fantasy Football Optimization Final Project-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/optimize_final_ziliotto%20(6).html)
 fantasy football optimization blah blah
 
 
