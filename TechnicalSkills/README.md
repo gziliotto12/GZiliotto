@@ -24,19 +24,20 @@ Continuing usage of user interfaces, for my final project, I had the opportunity
 At the time of beginning my Database Management classes, my brother was working pilot instructor in my hometown and I had also been traveling quite a bit. These two factors inspired me to build my database project around "CieloVolo", a fictional airline company and its ticket and flight operations. The name, "CieloVolo", translates to "sky flight" in English, which I found to be a fun way to incorporate an small easter egg referencing my minor.
 
 ### Foundations of Information Management
-[<img src= "https://img.shields.io/badge/CIELOVOLO PT.1-efe4b1.svg" height="30"/>]() 
+[<img src= "https://img.shields.io/badge/CieloVolo Zip Pt.1-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/CieloVolo%20C.1.zip)
+[<img src= "https://img.shields.io/badge/CieloVolo Access Database-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/INFO3140ProjectDatabase-3.accdb)
 
 cielovolo #1
 (erd, database, analysis)
 
 ### Enterprise Information Management
-[<img src= "https://img.shields.io/badge/CieloVolo SQL Pt.2-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/CieloVolo%20SQL%20C.2.zip)
+[<img src= "https://img.shields.io/badge/CieloVolo SQL Database Zip-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/CieloVolo%20SQL%20C.2.zip)
 [<img src= "https://img.shields.io/badge/Answering Business Questions in Python-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/ProjectP2%20(1).html) [<img src= "https://img.shields.io/badge/Python User Interface: Altering SQL Database-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/Database%20P3.html)
 cielovolo #2
 (erd, database, answering business questions w/ python, altering sql database through python w/ user interface of sorts)
 
 ### Data Warehousing and Business Intelligence
-[<img src= "https://img.shields.io/badge/CieloVolo Final Project Pt.3 -efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/CieloVolo%20Zip%20(2).zip) [<img src= "https://img.shields.io/badge/CieloVolo Presentation -efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/Presentation%20CieloVolo%202.pptx)
+[<img src= "https://img.shields.io/badge/CieloVolo Pt.3 Zip-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/CieloVolo%20Zip%20(2).zip) [<img src= "https://img.shields.io/badge/CieloVolo Presentation -efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/Presentation%20CieloVolo%202.pptx)
 cielovolo #3
 (erd, database, data warehouse code, data mart creation, dashboard analysis)
 
