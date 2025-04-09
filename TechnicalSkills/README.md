@@ -73,7 +73,24 @@ This last iteration of this project was a valuable way to wrap up experience wit
 
 ## Optimization Modeling
 [<img src= "https://img.shields.io/badge/Fantasy Football Optimization Final Project-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/optimize_final_ziliotto%20(6).html)
-fantasy football optimization blah blah
+
+
+In my Optimization Modeling course, I expanded on the basic Excel Solver skills I gained in INFO 1010, and ventured into modeling in Python with google Colab. Though different than Python in Anaconda, I enjoyed the ability to work on projects from different devices without needing a virtual machine.
+
+<img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/alt_modobj.png" alt="drawing" align= "right" width="600"/>
+For the final project, I got to explore football and the world of fantasy football through a problem aimed at creating the optimal fantasy team comprised of 9 members. This project involved a number of Python libaries including pyomo for modeling, and pandas, seaborn, matplotlib, and numpy for visuals/analysis. For the first part of the project, I optimized using the 17th NFL week results; it was in essence, like creating a fantasy team with the "cheat code". However, for the second part of the project, I had to decide on my own constraints to choose the best team from an entire season of data.
+
+For my method of choosing players, I chose to maximize "boosted avg points per game". This was a new column I created by multiplying the column "avg points per game" by several multipliers chosen from different criteria I believed were indicators a player would perform better. These were determined by consulting friends that were into fantasy football and of course, Google. Creating a "boosted" column allowed me to have soft constraints that also wouldn't break the model. To the right is the explanation of multipliers used for the "boosted avg points per game", as well as the decision variables and other constraints added to the model.
+
+After creating the objective function and deciding on the constraints, I created the optimization model. Here is the code I used to do so:
+
+<img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/alt_modcode.png" alt="drawing" width="600"/>
+
+This model proved to be optimal given the constraints. I took the chosen team and compared how they actually did in fantasy points on NFL week 17, in order to compare my model to the "cheat code" model. Below, my model can be seen on the left and the "cheat code" model is on the right.
+
+<img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/alt_fantres2.png" alt="drawing" width="450"/> <img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/cheat_fantres.png" alt="drawing" align= "right" width="450"/> 
+
+My model did not beat the "cheat code" player selection but, it was still fairly good and outperformed simply maximizing "avg points per game" by 5 points. I ultimately concluded it would be best to time travel and use the cheat code strategy if possible. Realistically, more research on fantasy football performance indicators would be necessary to get the best team lineup; this would likely include data analysis at a more micro-level.
 
 # Accounting Journey
 While completing my business core courses, I realized I had a natural interest in accounting and that it paired well with my BIA major. With guidance from my incredible accounting professors, I began attending networking events like their mixer at the beginning of the year. Through this, I was able to get to know man of the professors and other accounting students.
