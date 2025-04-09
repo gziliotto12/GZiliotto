@@ -60,8 +60,16 @@ In this class, I also got to explore connecting the database to Python for data 
 ### Data Warehousing and Business Intelligence
 [<img src= "https://img.shields.io/badge/CieloVolo Pt.3 Zip-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/CieloVolo%20Zip%20(2).zip) [<img src= "https://img.shields.io/badge/CieloVolo Presentation -efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/Presentation%20CieloVolo%202.pptx)
 
-In the final database class, CieloVolo saw a big change in its database set-up. In order to transform the SQL Server database into a datamart, my group collaborated with the professor to rewrite the database with a new ERD that could easily be transformed into the data mart using Visual Studios.
-(erd, database, data warehouse code, data mart creation, dashboard analysis)
+<img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/c3_erd.png" alt="drawing" align= "left" width="500"/> 
+
+In the final database class, CieloVolo saw a big change in its database setup. In order to transform the SQL Server database into a datamart, my group collaborated with the professor to rewrite the database with a new ERD that could easily be transformed into the data mart using Visual Studios.
+<br>
+
+After turning the database into a data mart, the last part of this project was to create a data analysis visual answering the key business questions we had. To do this, I created a dashboard in Tableau with a number of visuals and key financial values. 
+
+This last iteration of this project was a valuable way to wrap up experience with database management and warehousing. It was a special moment to see my skills transform from a basic understanding of ERDs and databases in Microsoft Access, to creating a data mart in SQL Server. The final user interface dashboard combined my past knowledge of user interfaces with my newly found database skills, and it was the perfect way to wrap up the three quarters journey of CieloVolo. The dashboard below shows revenues by a number of different variables including location, ticket class, and aircraft model. 
+
+<img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/c3_dash.png" alt="drawing" width="850"/>
 
 ## Optimization Modeling
 [<img src= "https://img.shields.io/badge/Fantasy Football Optimization Final Project-efe4b1.svg" height="30"/>](https://github.com/gziliotto12/gziliotto12/blob/main/TechnicalSkills/Projects/optimize_final_ziliotto%20(6).html)
