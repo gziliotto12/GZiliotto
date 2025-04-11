@@ -2,7 +2,7 @@
 ## Skillsets
 In the past several years, Daniels College of Business has helped to develop my technical skills in many different ways. My skillset include a combination of several languages and numerous applications that have helped me immensely:
 
-<img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/skills.png" alt="drawing" width="600"/>
+<img src="https://github.com/gziliotto12/gziliotto12/blob/main/Assets/Images/skills2.png" alt="drawing" width="600"/>
 
 ### Certifications
 - [Microsoft Office Specialist: Associate (Office 2019)](https://www.credly.com/badges/c2af8476-feab-47a7-9c25-0f69cc6ff42e/linked_in_profile)
